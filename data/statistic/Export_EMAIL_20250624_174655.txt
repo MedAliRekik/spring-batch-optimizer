@@ -1,0 +1,2 @@
+CTA: CTA002 | Type: email | Contenu: Message B
+CTA: CTA003 | Type: email | Contenu: Message C

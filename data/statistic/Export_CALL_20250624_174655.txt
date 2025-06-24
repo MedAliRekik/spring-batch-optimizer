@@ -1,0 +1,1 @@
+CTA: CTA001 | Type: call | Contenu: Message A
