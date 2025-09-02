@@ -1,6 +1,7 @@
-package com.ali.batchoptimizer.batch.service;
+package com.ali.batchoptimizer.infra.adapters;
 
 
+import com.ali.batchoptimizer.domain.MediaTypeService;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.ali.batchoptimizer.batch.model;
+package com.ali.batchoptimizer.domain;
 
 
 import lombok.AllArgsConstructor;

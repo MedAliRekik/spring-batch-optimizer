@@ -1,4 +1,4 @@
-package com.ali.batchoptimizer.batch.service;
+package com.ali.batchoptimizer.domain;
 
 import java.util.List;
 import java.util.Map;

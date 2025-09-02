@@ -1,9 +1,9 @@
-package com.ali.batchoptimizer.batch.processor;
+package com.ali.batchoptimizer.app.jobs.processor;
 
 
 
-import com.ali.batchoptimizer.batch.listener.ConversationCacheInitializer;
-import com.ali.batchoptimizer.batch.model.ConversationResult;
+import com.ali.batchoptimizer.app.jobs.listener.ConversationCacheInitializer;
+import com.ali.batchoptimizer.domain.ConversationResult;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
 

@@ -1,7 +1,7 @@
-package com.ali.batchoptimizer.batch.reader;
+package com.ali.batchoptimizer.app.jobs.reader;
 
 
-import com.ali.batchoptimizer.batch.model.ConversationResult;
+import com.ali.batchoptimizer.domain.ConversationResult;
 import org.springframework.batch.item.support.ListItemReader;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

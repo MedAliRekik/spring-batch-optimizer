@@ -1,6 +1,6 @@
-package com.ali.batchoptimizer.batch.writer;
+package com.ali.batchoptimizer.app.jobs.writer;
 
-import com.ali.batchoptimizer.batch.model.ConversationResult;
+import com.ali.batchoptimizer.domain.ConversationResult;
 import org.springframework.batch.item.Chunk;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.stereotype.Component;

@@ -1,9 +1,9 @@
-package com.ali.batchoptimizer.batch.listener;
+package com.ali.batchoptimizer.app.jobs.listener;
 
 
 
-import com.ali.batchoptimizer.batch.service.ConversationService;
-import com.ali.batchoptimizer.batch.service.MediaTypeService;
+import com.ali.batchoptimizer.domain.ConversationService;
+import com.ali.batchoptimizer.domain.MediaTypeService;
 import org.springframework.batch.core.ExitStatus;
 import org.springframework.batch.core.StepExecution;
 import org.springframework.batch.core.StepExecutionListener;
