@@ -1,11 +1,11 @@
-package com.ali.batchoptimizer.batch.config;
+package com.ali.batchoptimizer.app.jobs;
 
 
 
-import com.ali.batchoptimizer.batch.listener.ConversationCacheInitializer;
-import com.ali.batchoptimizer.batch.model.ConversationResult;
-import com.ali.batchoptimizer.batch.processor.ConversationProcessor;
-import com.ali.batchoptimizer.batch.writer.ConversationWriter;
+import com.ali.batchoptimizer.app.jobs.listener.ConversationCacheInitializer;
+import com.ali.batchoptimizer.app.jobs.processor.ConversationProcessor;
+import com.ali.batchoptimizer.app.jobs.writer.ConversationWriter;
+import com.ali.batchoptimizer.domain.ConversationResult;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;

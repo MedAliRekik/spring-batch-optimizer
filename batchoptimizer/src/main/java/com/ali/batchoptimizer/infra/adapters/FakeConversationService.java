@@ -1,6 +1,7 @@
-package com.ali.batchoptimizer.batch.service;
+package com.ali.batchoptimizer.infra.adapters;
 
 
+import com.ali.batchoptimizer.domain.ConversationService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

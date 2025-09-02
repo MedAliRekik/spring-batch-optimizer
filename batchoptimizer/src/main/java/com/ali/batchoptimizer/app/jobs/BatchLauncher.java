@@ -1,4 +1,4 @@
-package com.ali.batchoptimizer.batch.config;
+package com.ali.batchoptimizer.app.jobs;
 
 
 
